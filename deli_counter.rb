@@ -14,8 +14,8 @@ puts "The line is currently: " + "1. " + deli_order[0] + " 2. " + deli_order[1] 
 end
 end
 
-def take_a_number(deli_order, name)
-  puts "Welcome, #{name}. You are number #{deli_order.length} in line."
+def take_a_number(katz_deli, name)
+  puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
 end
 
 
