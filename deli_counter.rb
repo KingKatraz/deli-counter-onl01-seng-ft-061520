@@ -15,7 +15,7 @@ end
 end
 
 def take_a_number(deli_order, name)
-  puts "Welcome, #{name}. You are number #{deli_order} in line."
+  puts "Welcome, #{name}. You are number #{deli_order.length} in line."
 end
 
 
